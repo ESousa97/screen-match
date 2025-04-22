@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/catalogo-de-filmes.iml" filepath="$PROJECT_DIR$/catalogo-de-filmes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/screen-match.iml" filepath="$PROJECT_DIR$/screen-match.iml" />
     </modules>
   </component>
 </project>
