@@ -671,3 +671,4 @@ Para dúvidas, sugestões, ou para relatar problemas relacionados ao projeto "Sc
 
 
 > ✨ **Criado em:** 22 de abr. de 2025 às 20:59
+
