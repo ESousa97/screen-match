@@ -6,7 +6,6 @@ import com.screenmatch.util.InputUtils;
 import java.util.Comparator;
 import java.util.List;
 import java.util.Scanner;
-import java.util.stream.Collectors;
 
 /**
  * Submenu de relatórios sobre o catálogo de filmes.
