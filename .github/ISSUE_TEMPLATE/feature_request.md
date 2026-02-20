@@ -6,6 +6,10 @@ labels: enhancement
 assignees: ''
 ---
 
+> **⚠️ Repositório arquivado**
+> Este projeto não está mais ativo e permanece aberto apenas para fins de estudo.
+> Feature requests podem não ser avaliadas.
+
 ## Descrição da Funcionalidade
 
 Descrição clara da funcionalidade desejada.

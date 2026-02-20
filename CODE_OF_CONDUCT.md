@@ -1,5 +1,11 @@
 # Código de Conduta — Contributor Covenant
 
+## Status do Repositório
+
+Este repositório **não está mais ativo** e segue aberto **apenas para fins de estudo**.
+
+Este código de conduta permanece publicado para registrar os padrões esperados em interações públicas já existentes no projeto.
+
 ## Nosso Compromisso
 
 Nós, como membros, contribuidores e líderes, nos comprometemos a fazer da participação em nossa comunidade uma experiência livre de assédio para todos, independentemente de idade, tamanho corporal, deficiência visível ou invisível, etnicidade, características sexuais, identidade e expressão de gênero, nível de experiência, educação, status socioeconômico, nacionalidade, aparência pessoal, raça, religião ou identidade e orientação sexual.

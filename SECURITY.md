@@ -1,10 +1,16 @@
 # Política de Segurança
 
+## Status do Repositório
+
+Este repositório **não está mais ativo** e permanece público **apenas para fins de estudo**.
+
+Não há manutenção contínua, SLA de correção ou garantia de atualização de dependências.
+
 ## Versões Suportadas
 
 | Versão | Suportada |
 | :----- | :-------- |
-| 1.0.x  | ✅        |
+| 1.0.x  | ❌        |
 
 ## Reportar Vulnerabilidades
 
@@ -23,9 +29,8 @@ Em vez disso, entre em contato diretamente com o mantenedor:
 
 ### Prazo de Resposta
 
-- **Confirmação de recebimento:** até 48 horas
-- **Avaliação inicial:** até 7 dias
-- **Correção (se aplicável):** depende da severidade
+- Não há prazo de resposta garantido.
+- Correções podem não ser realizadas.
 
 ## Considerações de Segurança do Projeto
 
@@ -36,4 +41,4 @@ Este projeto é uma aplicação de console educacional que:
 - **Não** processa credenciais ou dados sensíveis
 - **Não** possui dependências de runtime (apenas JDK padrão)
 
-O perfil de risco de segurança é **baixo**. As dependências de build/test (JUnit, Maven plugins) são monitoradas via Dependabot.
+O perfil de risco de segurança é **baixo**.

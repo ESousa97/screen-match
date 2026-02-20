@@ -1,8 +1,16 @@
 # Contribuindo para o Screen Match
 
-Obrigado pelo interesse em contribuir! Este guia explica como participar do projeto.
+## Status do Repositório
+
+Este repositório **não está mais ativo** e permanece público **apenas para fins de estudo**.
+
+Pull Requests e novas funcionalidades não serão mais avaliados.
+
+Obrigado pelo interesse em contribuir! Este guia foi mantido apenas como referência histórica.
 
 ## Como Contribuir
+
+> Este fluxo está mantido somente para estudo e aprendizado de processo.
 
 ### 1. Reportar Bugs
 
@@ -36,7 +44,7 @@ Abra uma [Issue](https://github.com/ESousa97/screen-match/issues) usando o templ
    git commit -m "fix: corrigir cálculo de média"
    git commit -m "docs: atualizar README com novo comando"
    ```
-7. **Push** e abra um **Pull Request**
+7. **Push** e abra um **Pull Request** (exercício de prática)
 
 ## Padrões de Código
 

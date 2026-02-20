@@ -6,6 +6,10 @@ labels: bug
 assignees: ''
 ---
 
+> **⚠️ Repositório arquivado**
+> Este projeto não está mais ativo e permanece aberto apenas para fins de estudo.
+> Issues podem não receber resposta ou correção.
+
 ## Descrição do Bug
 
 Descrição clara e concisa do problema.

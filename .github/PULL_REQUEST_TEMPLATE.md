@@ -1,3 +1,7 @@
+> **⚠️ Repositório arquivado**
+> Este projeto não está mais ativo e permanece aberto apenas para fins de estudo.
+> Pull Requests podem não ser revisados ou aceitos.
+
 ## Descrição
 
 Descreva brevemente o que este PR faz.
